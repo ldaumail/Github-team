@@ -1,3 +1,3 @@
 # Github-team
-Craig
+Craig Elliott
 Loïc Daumail 
